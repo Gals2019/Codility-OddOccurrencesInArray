@@ -35,7 +35,7 @@ namespace OddOccurrencesInArray
                         numeroSolo = numeroActual;
                         break;
                     }
-                }
+                } 
                 else {
                     numeroSolo = numeroActual;
                 }
